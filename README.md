@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![a-garey's github stats](https://github-readme-stats.vercel.app/api?username=a-garey&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-garey&theme=radical)](https://github.com/a-garey/github-readme-stats)
