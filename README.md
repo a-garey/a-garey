@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-garey&layout=compact&theme=radical)](https://github.com/a-garey/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-garey&hide=powershell&layout=compact&theme=radical)](https://github.com/a-garey/github-readme-stats)
 ![a-garey's github stats](https://github-readme-stats.vercel.app/api?username=a-garey&show_icons=true&theme=radical)
 
 <!--
